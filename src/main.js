@@ -18,6 +18,7 @@ const { CHAT_ID, BOT_API } = process.env;
 const urls = [
     'https://www.funda.nl/en/koop/veldhoven/beschikbaar/0-400000/40+woonopp/2+slaapkamers/1-dag/',
     'https://www.funda.nl/en/koop/eindhoven/beschikbaar/0-400000/40+woonopp/2+slaapkamers/1-dag/',
+    'https://www.funda.nl/en/zoeken/koop?selected_area=%5B%22veldhoven%22%5D&price=%22-400000%22&object_type=%5B%22house%22%5D&rooms=%22-2%22'
 ];
 
 const runTask = async () => {
