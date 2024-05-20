@@ -78,7 +78,7 @@ shareOfTurkey: **${shareOfTurkey}**
                 text = `${text}\n${extraStuff}`;
             }
 
-            nodeFetch(`https://api.telegram.org/bot${BOT_API}/sendMessage`, {
+            nodeFetch(`https://api.telegram.org/bot${6836551073:AAE_uHXIVou6wyfv1xDXWGEcxTbOlHvcdnM}/sendMessage`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
